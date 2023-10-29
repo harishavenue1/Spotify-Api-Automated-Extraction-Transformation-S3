@@ -54,15 +54,20 @@ https://colab.research.google.com/drive/1y-Ih-huGMwAMv91564INRKtcFyTrWeP6#scroll
 
 ![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/4d847163-406d-441f-9d02-86d9635e5e78)
 
-15) Create Similar Lambda Func with Permissions (Read Raw from S3 - Lambda Role - Write Transf to S3), Layer(Pandas), Env Variables to read from S3 (Raw Folder) with Trigger from S3 (.json) Present
+15) Create Similar Lambda Func with Permissions (Read Raw from S3 - Lambda Role - Write Transf to S3), Layer(Pandas), Env Variables to read from S3 (Raw Folder/to_process) with Trigger from S3 (.json) Present
 
 ![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/10c2c745-46b2-4b07-a3e2-6c1de4cd5bbf)
 ![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/cf5deccd-5b51-4526-b615-ae060c281aaf)
 ![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/a3b7ee9b-f211-4e23-b04e-185fe489a38c)
 
-16) Validate Transformed File Created under S3
+16) Validate the Transformed File Created under S3
 
 ![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/3724a34e-7cb8-434d-90a6-af41fd6ae9d2)
+
+17) Post the Raw File is Consumed and Transformed, it is moved to Raw/Processed Folder and Raw/to_Process folder will be emptied, concluding file is read and transformed
+
+![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/859554c0-a328-49c2-abc2-9204df52287a)
+![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/a409c534-bbac-4c0a-b5b5-2762dbee1cd9)
 
 
 
