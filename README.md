@@ -61,8 +61,9 @@ https://colab.research.google.com/drive/1y-Ih-huGMwAMv91564INRKtcFyTrWeP6#scroll
 ![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/a3b7ee9b-f211-4e23-b04e-185fe489a38c)
 
 16) Validate Transformed File Created under S3
-![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/0a8754ed-9c8a-4312-b0a5-78ac059d7bcb)
 
-17) 
+![image](https://github.com/harishavenue1/Spotify-Api-Automated-Extraction-Transformation-S3/assets/21108205/3724a34e-7cb8-434d-90a6-af41fd6ae9d2)
+
+
 
 
